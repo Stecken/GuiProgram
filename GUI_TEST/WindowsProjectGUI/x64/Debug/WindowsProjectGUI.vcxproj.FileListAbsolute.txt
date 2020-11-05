@@ -1,0 +1,2 @@
+C:\Users\T-Gamer\Documents\Coding\GUI_TEST\WindowsProjectGUI\x64\Debug\WindowsProjectGUI.exe
+C:\Users\T-Gamer\Documents\Coding\GUI_TEST\WindowsProjectGUI\x64\Debug\WindowsProjectGUI.pdb

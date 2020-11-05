@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>entraagoragui.wav</file>
+        <file>mandadnv.wav</file>
+        <file>guisonoro.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>gui.png</file>
+        <file>guirato.png</file>
+        <file>guij.jpg</file>
+        <file>guiicon.ico</file>
+    </qresource>
+</RCC>
