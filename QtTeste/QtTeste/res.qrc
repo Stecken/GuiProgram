@@ -9,5 +9,6 @@
         <file>guirato.png</file>
         <file>guij.jpg</file>
         <file>guiicon.ico</file>
+        <file>gui.ico</file>
     </qresource>
 </RCC>
